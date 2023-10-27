@@ -1,4 +1,4 @@
-# Ubuntu-OS-Setup
+# Ubuntu-OS-Setup For PHP and LARAVEL
 Step by step guide in setting up ubuntu for Web Development using PHP and Laravel
 
 ## First things first before anything else
