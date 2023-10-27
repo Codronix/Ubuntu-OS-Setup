@@ -7,7 +7,7 @@ Run this command first
 sudo apt update
 sudo apt install
 ```
-This will update all necessary files in ubuntu
+This will update all necessary packages in ubuntu
 ## Installing VS Code
 1.) Download VS Code at https://code.visualstudio.com/ <br>
 2.) After downloading, go to your downloads directory
